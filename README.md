@@ -1,5 +1,7 @@
 ### Hi there 👋
+I am Sai Hruthik, I am a recent grad from UIC. I am currently looking for full-time roles as a Software Engineer/Software Developer/Java Developer. I am currently working in projects involving awesome technologies like Java(Spring Boot), MySQL, Node.js, Angular, etc. Please do check out my projects, they involve my work in Software Development and Data Analytics. I believe my love towards technology will take leaps and bounds in creating awesome projects that will help the open source community in the best possible way.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarakanthamSaiHruthikReddy975)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **VarakanthamSaiHruthikReddy975/VarakanthamSaiHruthikReddy975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
