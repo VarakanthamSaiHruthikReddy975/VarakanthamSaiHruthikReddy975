@@ -6,7 +6,8 @@ I am Sai Hruthik, I am a recent grad from UIC. I am currently looking for full-t
 
 Skills: JAVA / SPRING BOOT / REACT / MYSQL / HTML / CSS / ANGULAR / NODE
 
-- 🔭 I’m currently working on this page. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VarakanthamSaiHruthikReddy975)  
+
 
 
 
