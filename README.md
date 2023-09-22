@@ -1,18 +1,13 @@
-### Hi there 👋
-I am Sai Hruthik, I am a recent grad from UIC. I am currently looking for full-time roles as a Software Engineer/Software Developer/Java Developer. I am currently working in projects involving awesome technologies like Java(Spring Boot), MySQL, Node.js, Angular, etc. Please do check out my projects, they involve my work in Software Development and Data Analytics. I believe my love towards technology will take leaps and bounds in creating awesome projects that will help the open source community in the best possible way.
+### Hi there 👋, I'm Sai Hruthik Reddy Varakantham
+#### Software Development & Data Analytics
+![Software Development & Data Analytics](https://pbs.twimg.com/profile_banners/1694555316245991424/1695341797/1500x500)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarakanthamSaiHruthikReddy975)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**VarakanthamSaiHruthikReddy975/VarakanthamSaiHruthikReddy975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sai Hruthik, I am a recent grad from UIC. I am currently looking for full-time roles as a Software Engineer/Software Developer/Java Developer. I am currently working in projects involving awesome technologies like Java(Spring Boot), MySQL, Node.js, Angular, etc
 
-Here are some ideas to get you started:
+Skills: JAVA / SPRING BOOT / REACT / MYSQL / HTML / CSS / ANGULAR / NODE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
