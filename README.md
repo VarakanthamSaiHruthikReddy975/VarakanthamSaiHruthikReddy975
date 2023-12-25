@@ -4,7 +4,7 @@
 
 I am Sai Hruthik, I am a recent grad from UIC. I am currently looking for full-time roles as a Software Engineer/Software Developer/Java Developer. I am currently working in projects involving awesome technologies like Java(Spring Boot), MySQL, Node.js, Angular, etc
 
-Skills: JAVA / SPRING BOOT / REACT / MYSQL / HTML / CSS / ANGULAR / NODE
+Skills: JAVA / SPRING BOOT / REACT / MYSQL / HTML / CSS / ANGULAR / NODE / PYTHON / DJANGO
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VarakanthamSaiHruthikReddy975)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/vshrwick/) 
 
