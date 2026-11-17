@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 **Data**
@@ -49,7 +48,6 @@
 **Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -60,16 +58,16 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Project1 (TBD)**](<repo link>) | Async backend with auth, background workers, retries, idempotency and failure testing | FastAPI · PostgreSQL · Redis · Docker |
-| [**Project2 (TBD)**](<repo link>) | Detects repeated content in short-video feeds using embeddings and semantic search | FastAPI · pgvector · LLM APIs |
+| **Project 1 (coming soon)** | Async backend with auth, background workers, retries, idempotency and failure testing | FastAPI · PostgreSQL · Redis · Docker |
+| **Project 2 (coming soon)** | Detects repeated content in short-video feeds using embeddings and semantic search | FastAPI · pgvector · LLM APIs |
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VarakanthamSaiHruthikReddy975&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarakanthamSaiHruthikReddy975&layout=compact&hide_border=true" height="160" />
 </p>
 
 ---
